@@ -2,9 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
+The aim of this project is to have a play with Angular and test its out of the box accessibilty for signalling route changes to screen readers (there seems to be nothing). 
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files. The command `ng serve --open` will open the page up for you.
 
 ## Code scaffolding
 
